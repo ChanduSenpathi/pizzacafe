@@ -1,0 +1,53 @@
+{
+  "main": [
+    {
+      "imgUrl": "https://www.caseys.com/medias/sys_master/images/h90/h44/8796494594078/8143_base-400x400/8143-base-400x400.png",
+      "title": "Cheeseburger",
+      "price": 18.3,
+      "id": 1
+    },
+    {
+      "imgUrl": "https://schaeftlarner-einkehr.de/wp-content/uploads/2021/02/Tonno.jpeg",
+      "title": "Don Bacon",
+      "price": 24.1,
+      "id": 2
+    },
+    {
+      "imgUrl": "https://bigalspizzeria.com/wp-content/uploads/2021/07/PIzza-Whole-Carne-Asada-min.jpg",
+      "title": "Carne",
+      "price": 26.3,
+      "id": 3
+    },
+    {
+      "imgUrl": "https://ikura.ua/Media/images/catalog/big/4655eb519109e6a873b26bdd38e1474f.jpg",
+      "title": "Julienne",
+      "price": 12.5,
+      "id": 4
+    },
+    {
+      "imgUrl": "https://images.newyorkpizza.nl/Products/Original/5_cheese-8064.png",
+      "title": "5 Cheese",
+      "price": 14.35,
+      "id": 5
+    },
+    {
+      "imgUrl": "https://pngimg.com/uploads/pizza/pizza_PNG43981.png",
+      "title": "Cipollo",
+      "price": 10,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "chandu",
+      "mail": "eswarchandu96@gmail.com",
+      "password": "Chandu@220",
+      "confirmPwd": "Chandu@220",
+      "userErr": "",
+      "mailErr": "",
+      "pwdError": "",
+      "confirmPwdErr": "",
+      "id": 1
+    }
+  ]
+}
